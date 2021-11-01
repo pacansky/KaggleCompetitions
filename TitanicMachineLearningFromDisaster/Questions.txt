@@ -1,0 +1,3 @@
+1) Should we perform ANOVA/ t.tset etc?
+2) Shouldn't we exclude Cabin variable?
+3) Why Age is missing even for survived persons?
