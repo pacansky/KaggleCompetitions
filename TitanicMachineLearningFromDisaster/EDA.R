@@ -59,4 +59,6 @@ titanic_survivor%>%
 titanic_survivor_NOT %>%
   ggplot(aes(x = Sex))+
   geom_bar()
-  
+
+
+123
